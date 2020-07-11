@@ -111,6 +111,7 @@ adjective <- c(
   "sharp",
   "shining",
   "slick",
+  "slender",
   "smart",
   "smashing",
   "solid",
